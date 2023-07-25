@@ -8,8 +8,8 @@
 
 ## Навыки и инструменты
 
-- **python**  
-- **numpy**  
+* **python**  
+* **numpy**  
 - **pandas**  
 - **seaborn**  
 - matplotlib.**pyplot**  
