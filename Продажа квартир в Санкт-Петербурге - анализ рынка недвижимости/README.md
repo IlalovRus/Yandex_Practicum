@@ -14,4 +14,4 @@
 - **numpy**
 - **seaborn**
 - **re**
-- matplotlib. **pyplot**
+- matplotlib.**pyplot**
