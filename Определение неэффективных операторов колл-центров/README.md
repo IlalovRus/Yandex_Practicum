@@ -8,18 +8,18 @@
 
 ## Навыки и инструменты
 
--**python**  
--**numpy**  
--**pandas**  
--**seaborn**  
--matplotlib.**pyplot**  
--plotly.**express**  
--plotly.**subplots**  
--**plotly graph_objects**  
--scipy.**stats**  
--**datetime**  
--**math**  
--**statsmodels.api**  
+- **python**  
+- **numpy**  
+- **pandas**  
+- **seaborn**  
+- matplotlib.**pyplot**  
+- plotly.**express**  
+- plotly.**subplots**  
+- **plotly graph_objects**  
+- scipy.**stats**  
+- **datetime**  
+- **math**  
+- **statsmodels.api**  
 
 ## Вывод
 На основании разработанных моделей (отдельно для колл-центров, специализирующихся на приёме входящих звонков и колл-центров, специализирующихся на обзвонах) проведена оценка эффективности операторов колл-центров. Сделан вывод о целесообразности введения данной "фиги" для клиентов заказчика.
